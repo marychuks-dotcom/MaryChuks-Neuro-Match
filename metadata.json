@@ -1,0 +1,6 @@
+{
+  "name": "Match-3 Puzzle",
+  "description": "A psychologically engaging Match-3 puzzle game featuring multiple twists (color, emotions, symbols, numbers) and cognitive performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
